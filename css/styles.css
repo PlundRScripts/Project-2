@@ -113,7 +113,8 @@ footer{
 .nav{
     width:335px;
     display:flex;
-    margin:auto
+    margin:auto;
+    justify-content: center;
 }
 
 .img-wrapper{
